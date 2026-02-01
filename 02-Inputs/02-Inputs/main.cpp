@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  Practice
+//  02-Inputs
 //
 //  Created by Freewin Dias on 31/01/26.
 //
@@ -10,6 +10,5 @@
 int main(int argc, const char * argv[]) {
     // insert code here...
     std::cout << "Hello, World!\n";
-    std::cout << "MC";
     return EXIT_SUCCESS;
 }
